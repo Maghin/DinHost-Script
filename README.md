@@ -2,7 +2,7 @@
 Python and Bash scripts to update DinHost account with a public IP
 
 ## Dependancies
-- linx
+- lynx
 - Python libraries
 
 ## Files
