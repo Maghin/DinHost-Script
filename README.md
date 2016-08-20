@@ -16,7 +16,7 @@ mkdir /root/ipcheck
 cp * /root/ipcheck/
 chmod -R 700 /root/ipcheck
 ```
-- Edit ipcheck.sh with right host, login and password
+- Edit ipcheck.sh with proper host, login and password
 ```sh
 HOST=*hostname_to_update*
 LOGIN=*DynHost_account*
