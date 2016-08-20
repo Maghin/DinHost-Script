@@ -6,7 +6,7 @@ Python and Bash scripts to update DinHost account with a public IP
 - Python libraries
 
 ## Files
-- **ipcheck.sh** get your current public IP, compare with the old one and then execute ipcheck.py if needed
+- **ipcheck.sh** gets your current public IP, compares with the old one and then executes ipcheck.py if needed
 - **ipcheck.py** updates the DynHost account
 
 ## Usage
